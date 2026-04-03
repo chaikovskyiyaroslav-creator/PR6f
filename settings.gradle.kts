@@ -23,4 +23,3 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "PR5"
-include(":app")
